@@ -21,8 +21,7 @@
       ]
     },
     {
-      "value": "DXA",
-      "children": []
+      "value": "DXA" 
     },
     {
       "value": "MG",
@@ -70,8 +69,7 @@
       ]
     },
     {
-      "value": "NM.SPECT+CT",
-      "children": []
+      "value": "NM.SPECT+CT" 
     },
     {
       "value": "PT",
@@ -82,8 +80,7 @@
       ]
     },
     {
-      "value": "PT+CT",
-      "children": []
+      "value": "PT+CT" 
     },
     {
       "value": "RF",
@@ -131,8 +128,7 @@
       ]
     },
     {
-      "value": "Other Imaging",
-      "children": []
+      "value": "Other Imaging" 
     }
   ]
 }
