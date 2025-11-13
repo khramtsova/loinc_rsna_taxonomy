@@ -1,0 +1,220 @@
+{
+  "items": [
+    {
+      "value": "1 level"
+    },
+    {
+      "value": "1 or 2"
+    },
+    {
+      "value": "2 levels"
+    },
+    {
+      "value": "3 phase"
+    },
+    {
+      "value": "3 views"
+    },
+    {
+      "value": "Additional"
+    },
+    {
+      "value": "Additional day"
+    },
+    {
+      "value": "Additional level"
+    },
+    {
+      "value": "Blood pool"
+    },
+    {
+      "value": "Brain death protocol"
+    },
+    {
+      "value": "Cine"
+    },
+    {
+      "value": "Comparison"
+    },
+    {
+      "value": "Complete"
+    },
+    {
+      "value": "Delayed"
+    },
+    {
+      "value": "Diagnostic"
+    },
+    {
+      "value": "Differential"
+    },
+    {
+      "value": "Dynamic"
+    },
+    {
+      "value": "Ejection fraction"
+    },
+    {
+      "value": "Equilibrium"
+    },
+    {
+      "value": "Final day"
+    },
+    {
+      "value": "First pass"
+    },
+    {
+      "value": "GE 1"
+    },
+    {
+      "value": "GE 21"
+    },
+    {
+      "value": "GE 3"
+    },
+    {
+      "value": "GE 3 levels"
+    },
+    {
+      "value": "GE 4"
+    },
+    {
+      "value": "Gated"
+    },
+    {
+      "value": "Initial"
+    },
+    {
+      "value": "Initial day"
+    },
+    {
+      "value": "LE 4"
+    },
+    {
+      "value": "LT 4"
+    },
+    {
+      "value": "Limited"
+    },
+    {
+      "value": "Multiple areas"
+    },
+    {
+      "value": "Multiple days"
+    },
+    {
+      "value": "Perfusion"
+    },
+    {
+      "value": "Portable"
+    },
+    {
+      "value": "Post mortem"
+    },
+    {
+      "value": "Postoperative"
+    },
+    {
+      "value": "Qualitative"
+    },
+    {
+      "value": "Quantitative"
+    },
+    {
+      "value": "Secondary"
+    },
+    {
+      "value": "Serial"
+    },
+    {
+      "value": "Single area"
+    },
+    {
+      "value": "Survey"
+    },
+    {
+      "value": "Therapeutic"
+    },
+    {
+      "value": "Through ileal conduit"
+    },
+    {
+      "value": "Uptake"
+    },
+    {
+      "value": "Ventilation"
+    },
+    {
+      "value": "Ventricular volume"
+    },
+    {
+      "value": "View"
+    },
+    {
+      "value": "Views"
+    },
+    {
+      "value": "Views 1 or 2"
+    },
+    {
+      "value": "Views 2"
+    },
+    {
+      "value": "Views 2 or 3"
+    },
+    {
+      "value": "Views 2 phase"
+    },
+    {
+      "value": "Views 3"
+    },
+    {
+      "value": "Views 3 or 4"
+    },
+    {
+      "value": "Views 3 phase"
+    },
+    {
+      "value": "Views 4"
+    },
+    {
+      "value": "Views 4 or 5"
+    },
+    {
+      "value": "Views 5"
+    },
+    {
+      "value": "Views 6"
+    },
+    {
+      "value": "Views 7"
+    },
+    {
+      "value": "Views 8"
+    },
+    {
+      "value": "Views GE 2"
+    },
+    {
+      "value": "Views GE 3"
+    },
+    {
+      "value": "Views GE 4"
+    },
+    {
+      "value": "Views GE 5"
+    },
+    {
+      "value": "Views GE 6"
+    },
+    {
+      "value": "Views LE 3"
+    },
+    {
+      "value": "Wall motion"
+    },
+    {
+      "value": "Washout"
+    }
+  ]
+}

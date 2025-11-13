@@ -1,0 +1,1502 @@
+{
+  "items": [
+    {
+      "value": "Abdomen",
+      "children": [
+        {
+          "value": "Abdominal arteries"
+        },
+        {
+          "value": "Abdominal lymphatic vessels"
+        },
+        {
+          "value": "Abdominal veins"
+        },
+        {
+          "value": "Abdominal vessels"
+        },
+        {
+          "value": "Abdominal wall"
+        },
+        {
+          "value": "Adrenal artery"
+        },
+        {
+          "value": "Adrenal gland"
+        },
+        {
+          "value": "Adrenal vein"
+        },
+        {
+          "value": "Adrenal vessel"
+        },
+        {
+          "value": "Adrenal vessels"
+        },
+        {
+          "value": "Aorta.abdominal"
+        },
+        {
+          "value": "Aorta.abdominal.infrarenal"
+        },
+        {
+          "value": "Appendix"
+        },
+        {
+          "value": "Azygos vein"
+        },
+        {
+          "value": "Biliary duct.common"
+        },
+        {
+          "value": "Biliary ducts"
+        },
+        {
+          "value": "Celiac artery"
+        },
+        {
+          "value": "Celiac plexus"
+        },
+        {
+          "value": "Celiac vessels"
+        },
+        {
+          "value": "Colon"
+        },
+        {
+          "value": "Deep inferior epigastric artery"
+        },
+        {
+          "value": "Duodenum"
+        },
+        {
+          "value": "Gallbladder"
+        },
+        {
+          "value": "Gastric artery"
+        },
+        {
+          "value": "Gastroduodenal artery"
+        },
+        {
+          "value": "Gastrointestinal tract"
+        },
+        {
+          "value": "Gastrointestinal tract.upper"
+        },
+        {
+          "value": "Genitourinary tract"
+        },
+        {
+          "value": "Hepatic artery"
+        },
+        {
+          "value": "Hepatic vein"
+        },
+        {
+          "value": "Hepatic veins"
+        },
+        {
+          "value": "Hepatic vessels"
+        },
+        {
+          "value": "Ileum"
+        },
+        {
+          "value": "Iliac artery"
+        },
+        {
+          "value": "Iliac artery.internal"
+        },
+        {
+          "value": "Iliac graft"
+        },
+        {
+          "value": "Iliac vessels"
+        },
+        {
+          "value": "Inferior mesenteric artery"
+        },
+        {
+          "value": "Inferior mesenteric vein"
+        },
+        {
+          "value": "Intrahepatic portal system"
+        },
+        {
+          "value": "Jejunum"
+        },
+        {
+          "value": "Kidney"
+        },
+        {
+          "value": "Kidney cortex"
+        },
+        {
+          "value": "Liver"
+        },
+        {
+          "value": "Mesenteric arteries"
+        },
+        {
+          "value": "Mesenteric artery"
+        },
+        {
+          "value": "Mesenteric vessels"
+        },
+        {
+          "value": "Pancreas"
+        },
+        {
+          "value": "Pancreatic artery"
+        },
+        {
+          "value": "Pancreatic duct"
+        },
+        {
+          "value": "Perirenal space"
+        },
+        {
+          "value": "Peritoneal space"
+        },
+        {
+          "value": "Peritoneum"
+        },
+        {
+          "value": "Portal vein"
+        },
+        {
+          "value": "Pylorus"
+        },
+        {
+          "value": "Rectum"
+        },
+        {
+          "value": "Renal Vessels"
+        },
+        {
+          "value": "Renal arteries"
+        },
+        {
+          "value": "Renal artery"
+        },
+        {
+          "value": "Renal vein"
+        },
+        {
+          "value": "Renal vessel"
+        },
+        {
+          "value": "Retroperitoneum"
+        },
+        {
+          "value": "Right upper quadrant"
+        },
+        {
+          "value": "Small bowel"
+        },
+        {
+          "value": "Spine.lumbar"
+        },
+        {
+          "value": "Spine.lumbar epidural space"
+        },
+        {
+          "value": "Spine.lumbar facet joint"
+        },
+        {
+          "value": "Spine.lumbar intercostal arteries"
+        },
+        {
+          "value": "Spine.lumbar intervertebral disc"
+        },
+        {
+          "value": "Spine.lumbar space"
+        },
+        {
+          "value": "Spine.lumbar vessels"
+        },
+        {
+          "value": "Spine.lumbosacral junction"
+        },
+        {
+          "value": "Spine.thoracolumbar"
+        },
+        {
+          "value": "Spine.thoracolumbar junction"
+        },
+        {
+          "value": "Spleen"
+        },
+        {
+          "value": "Splenic artery"
+        },
+        {
+          "value": "Splenic vein"
+        },
+        {
+          "value": "Stomach"
+        },
+        {
+          "value": "Subphrenic space"
+        },
+        {
+          "value": "Superior mesenteric artery"
+        },
+        {
+          "value": "Superior mesenteric vein"
+        },
+        {
+          "value": "Superior mesenteric vessels"
+        },
+        {
+          "value": "Ureter"
+        },
+        {
+          "value": "Urinary bladder"
+        },
+        {
+          "value": "Vena cava.inferior"
+        },
+        {
+          "value": "Vena cava.superior"
+        },
+        {
+          "value": "Visceral arteries"
+        },
+        {
+          "value": "Visceral artery"
+        }
+      ]
+    },
+    {
+      "value": "Biliary system",
+      "children": []
+    },
+    {
+      "value": "Breast",
+      "children": [
+        {
+          "value": "Breast duct"
+        },
+        {
+          "value": "Breast vessels"
+        },
+        {
+          "value": "Lymphatic vessels"
+        }
+      ]
+    },
+    {
+      "value": "Cerebral artery middle",
+      "children": []
+    },
+    {
+      "value": "Chest",
+      "children": [
+        {
+          "value": "Airway"
+        },
+        {
+          "value": "Aorta.thoracic"
+        },
+        {
+          "value": "Aortic arch"
+        },
+        {
+          "value": "Aortic root"
+        },
+        {
+          "value": "Aortic valve"
+        },
+        {
+          "value": "Axilla"
+        },
+        {
+          "value": "Azygos vein"
+        },
+        {
+          "value": "Brachial plexus"
+        },
+        {
+          "value": "Brachiocephalic artery"
+        },
+        {
+          "value": "Bronchial artery"
+        },
+        {
+          "value": "Chest veins"
+        },
+        {
+          "value": "Chest vessels"
+        },
+        {
+          "value": "Chest wall"
+        },
+        {
+          "value": "Clavicle"
+        },
+        {
+          "value": "Coronary arteries"
+        },
+        {
+          "value": "Diaphragm"
+        },
+        {
+          "value": "Endomyocardium"
+        },
+        {
+          "value": "Esophagus"
+        },
+        {
+          "value": "Heart"
+        },
+        {
+          "value": "Heart.ventricle"
+        },
+        {
+          "value": "Internal thoracic artery"
+        },
+        {
+          "value": "Lung"
+        },
+        {
+          "value": "Lung parenchyma"
+        },
+        {
+          "value": "Mediastinum"
+        },
+        {
+          "value": "Mediastinum.superior"
+        },
+        {
+          "value": "Pericardial space"
+        },
+        {
+          "value": "Pleura"
+        },
+        {
+          "value": "Pleural space"
+        },
+        {
+          "value": "Pulmonary arteries"
+        },
+        {
+          "value": "Pulmonary artery"
+        },
+        {
+          "value": "Pulmonary system"
+        },
+        {
+          "value": "Pulmonary veins"
+        },
+        {
+          "value": "Pulmonary vessels"
+        },
+        {
+          "value": "Ribs"
+        },
+        {
+          "value": "Ribs.anterior"
+        },
+        {
+          "value": "Ribs.lower"
+        },
+        {
+          "value": "Ribs.lower.posterior"
+        },
+        {
+          "value": "Ribs.posterior"
+        },
+        {
+          "value": "Ribs.upper"
+        },
+        {
+          "value": "Ribs.upper.anterior"
+        },
+        {
+          "value": "Ribs.upper.posterior"
+        },
+        {
+          "value": "Scapula"
+        },
+        {
+          "value": "Soft tissue"
+        },
+        {
+          "value": "Spine.cervicothoracic junction"
+        },
+        {
+          "value": "Spine.thoracic"
+        },
+        {
+          "value": "Spine.thoracic epidural space"
+        },
+        {
+          "value": "Spine.thoracic facet joint"
+        },
+        {
+          "value": "Spine.thoracic intercostal nerve"
+        },
+        {
+          "value": "Spine.thoracic vessels"
+        },
+        {
+          "value": "Spine.thoracolumbar"
+        },
+        {
+          "value": "Spine.thoracolumbar junction"
+        },
+        {
+          "value": "Sternoclavicular joint"
+        },
+        {
+          "value": "Sternum"
+        },
+        {
+          "value": "Subclavian artery"
+        },
+        {
+          "value": "Subclavian vein"
+        },
+        {
+          "value": "Subclavian vessels"
+        },
+        {
+          "value": "Thoracic artery"
+        },
+        {
+          "value": "Thoracic inlet vessels"
+        },
+        {
+          "value": "Thymus gland"
+        },
+        {
+          "value": "Trachea"
+        },
+        {
+          "value": "Vena cava.inferior"
+        },
+        {
+          "value": "Vena cava.superior"
+        }
+      ]
+    },
+    {
+      "value": "Extremity",
+      "children": [
+        {
+          "value": "Extremity arteries"
+        },
+        {
+          "value": "Extremity artery"
+        },
+        {
+          "value": "Extremity lymphatic vessels"
+        },
+        {
+          "value": "Extremity vein"
+        },
+        {
+          "value": "Extremity veins"
+        },
+        {
+          "value": "Extremity vessel"
+        },
+        {
+          "value": "Extremity vessels"
+        },
+        {
+          "value": "Musculoskeletal tissue"
+        }
+      ]
+    },
+    {
+      "value": "Head",
+      "children": [
+        {
+          "value": "Brain"
+        },
+        {
+          "value": "Brain stem"
+        },
+        {
+          "value": "Brain veins"
+        },
+        {
+          "value": "Brain.temporal"
+        },
+        {
+          "value": "Carotid arteries"
+        },
+        {
+          "value": "Carotid artery"
+        },
+        {
+          "value": "Carotid artery.external"
+        },
+        {
+          "value": "Carotid artery.internal"
+        },
+        {
+          "value": "Carotid artery.intracranial"
+        },
+        {
+          "value": "Carotid vessels"
+        },
+        {
+          "value": "Cerebral arteries"
+        },
+        {
+          "value": "Cerebral artery"
+        },
+        {
+          "value": "Cerebral artery internal"
+        },
+        {
+          "value": "Cerebral cisterns"
+        },
+        {
+          "value": "Cerebral sinuses"
+        },
+        {
+          "value": "Cerebral vein"
+        },
+        {
+          "value": "Circle of Willis"
+        },
+        {
+          "value": "Eye"
+        },
+        {
+          "value": "Face"
+        },
+        {
+          "value": "Facial bones"
+        },
+        {
+          "value": "Head arteries"
+        },
+        {
+          "value": "Head artery"
+        },
+        {
+          "value": "Head veins"
+        },
+        {
+          "value": "Head vessels"
+        },
+        {
+          "value": "Internal auditory canal"
+        },
+        {
+          "value": "Internal jugular vein"
+        },
+        {
+          "value": "Internal maxillary artery"
+        },
+        {
+          "value": "Intracranial vessel"
+        },
+        {
+          "value": "Jugular vein"
+        },
+        {
+          "value": "Lacrimal duct"
+        },
+        {
+          "value": "Larynx"
+        },
+        {
+          "value": "Mandible"
+        },
+        {
+          "value": "Mastoid"
+        },
+        {
+          "value": "Maxilla"
+        },
+        {
+          "value": "Maxillofacial region"
+        },
+        {
+          "value": "Nasal bones"
+        },
+        {
+          "value": "Nasopharynx"
+        },
+        {
+          "value": "Nerves.cranial"
+        },
+        {
+          "value": "Optic foramen"
+        },
+        {
+          "value": "Oral tissue"
+        },
+        {
+          "value": "Orbit"
+        },
+        {
+          "value": "Orbit veins"
+        },
+        {
+          "value": "Orbit vessels"
+        },
+        {
+          "value": "Oropharynx"
+        },
+        {
+          "value": "Petrous part of temporal bone"
+        },
+        {
+          "value": "Pharynx"
+        },
+        {
+          "value": "Pituitary"
+        },
+        {
+          "value": "Posterior fossa"
+        },
+        {
+          "value": "Salivary gland"
+        },
+        {
+          "value": "Sella turcica"
+        },
+        {
+          "value": "Sinus vein"
+        },
+        {
+          "value": "Sinuses"
+        },
+        {
+          "value": "Skull"
+        },
+        {
+          "value": "Skull.base"
+        },
+        {
+          "value": "Soft tissue"
+        },
+        {
+          "value": "Submandibular gland"
+        },
+        {
+          "value": "Teeth"
+        },
+        {
+          "value": "Teeth.mandible"
+        },
+        {
+          "value": "Teeth.maxilla"
+        },
+        {
+          "value": "Temporal bone"
+        },
+        {
+          "value": "Temporomandibular joint"
+        },
+        {
+          "value": "Vertebral artery"
+        },
+        {
+          "value": "Vertebral vessels"
+        },
+        {
+          "value": "Zygomatic arch"
+        }
+      ]
+    },
+    {
+      "value": "Lower extremity",
+      "children": [
+        {
+          "value": "Acetabulum"
+        },
+        {
+          "value": "Ankle"
+        },
+        {
+          "value": "Ankle arteries"
+        },
+        {
+          "value": "Ankle vessels"
+        },
+        {
+          "value": "Calcaneus"
+        },
+        {
+          "value": "Femoral artery"
+        },
+        {
+          "value": "Femoral vein"
+        },
+        {
+          "value": "Femoral vessel"
+        },
+        {
+          "value": "Femoral vessels"
+        },
+        {
+          "value": "Femur"
+        },
+        {
+          "value": "Fibula"
+        },
+        {
+          "value": "Foot"
+        },
+        {
+          "value": "Foot joint"
+        },
+        {
+          "value": "Foot vessels"
+        },
+        {
+          "value": "Foot.cuneiform bones"
+        },
+        {
+          "value": "Foot.sesamoid bones"
+        },
+        {
+          "value": "Foot.subtalar joint"
+        },
+        {
+          "value": "Forefoot"
+        },
+        {
+          "value": "Great toe"
+        },
+        {
+          "value": "Hindfoot"
+        },
+        {
+          "value": "Hip"
+        },
+        {
+          "value": "Knee"
+        },
+        {
+          "value": "Knee vessels"
+        },
+        {
+          "value": "Lower extremity arteries"
+        },
+        {
+          "value": "Lower extremity artery"
+        },
+        {
+          "value": "Lower extremity joint"
+        },
+        {
+          "value": "Lower extremity vein"
+        },
+        {
+          "value": "Lower extremity veins"
+        },
+        {
+          "value": "Lower extremity vessel"
+        },
+        {
+          "value": "Lower extremity vessels"
+        },
+        {
+          "value": "Lower leg"
+        },
+        {
+          "value": "Lower leg vessel"
+        },
+        {
+          "value": "Lower leg vessels"
+        },
+        {
+          "value": "Midfoot"
+        },
+        {
+          "value": "Patella"
+        },
+        {
+          "value": "Pedal lymphatic vessels"
+        },
+        {
+          "value": "Popliteal artery"
+        },
+        {
+          "value": "Popliteal space"
+        },
+        {
+          "value": "Popliteal vein"
+        },
+        {
+          "value": "RO vessels"
+        },
+        {
+          "value": "Soft tissue"
+        },
+        {
+          "value": "Thigh"
+        },
+        {
+          "value": "Thigh vessels"
+        },
+        {
+          "value": "Thigh.soft tissue"
+        },
+        {
+          "value": "Tibia"
+        },
+        {
+          "value": "Tibioperoneal arteries"
+        },
+        {
+          "value": "Tibioperoneal vessels"
+        },
+        {
+          "value": "Toe"
+        },
+        {
+          "value": "Toe.fifth"
+        },
+        {
+          "value": "Toe.fourth"
+        },
+        {
+          "value": "Toe.second"
+        },
+        {
+          "value": "Toe.third"
+        },
+        {
+          "value": "Toes"
+        },
+        {
+          "value": "Tributaries"
+        },
+        {
+          "value": "Vessels"
+        }
+      ]
+    },
+    {
+      "value": "Neck",
+      "children": [
+        {
+          "value": "Carotid arteries"
+        },
+        {
+          "value": "Carotid artery"
+        },
+        {
+          "value": "Carotid artery.cervical"
+        },
+        {
+          "value": "Carotid artery.common"
+        },
+        {
+          "value": "Carotid artery.external"
+        },
+        {
+          "value": "Carotid artery.extracranial"
+        },
+        {
+          "value": "Carotid artery.internal"
+        },
+        {
+          "value": "Carotid vessels"
+        },
+        {
+          "value": "Cerebral cisterns"
+        },
+        {
+          "value": "Cervical arteries"
+        },
+        {
+          "value": "Circle of Willis"
+        },
+        {
+          "value": "Esophagus.cervical"
+        },
+        {
+          "value": "Hypopharynx"
+        },
+        {
+          "value": "Internal jugular vein"
+        },
+        {
+          "value": "Jugular vein"
+        },
+        {
+          "value": "Larynx"
+        },
+        {
+          "value": "Nasopharynx"
+        },
+        {
+          "value": "Neck artery"
+        },
+        {
+          "value": "Neck veins"
+        },
+        {
+          "value": "Neck vessel"
+        },
+        {
+          "value": "Neck vessels"
+        },
+        {
+          "value": "Oropharynx"
+        },
+        {
+          "value": "Parathyroid gland"
+        },
+        {
+          "value": "Parotid gland"
+        },
+        {
+          "value": "Pharynx"
+        },
+        {
+          "value": "Soft tissue"
+        },
+        {
+          "value": "Spine.cervical"
+        },
+        {
+          "value": "Spine.cervical epidural space"
+        },
+        {
+          "value": "Spine.cervical facet joint"
+        },
+        {
+          "value": "Spine.cervical intervertebral disc"
+        },
+        {
+          "value": "Spine.cervical vessels"
+        },
+        {
+          "value": "Spine.cervical.axis"
+        },
+        {
+          "value": "Spine.cervical.odontoid"
+        },
+        {
+          "value": "Spine.cervicothoracic junction"
+        },
+        {
+          "value": "Thyroid gland"
+        },
+        {
+          "value": "Trachea"
+        },
+        {
+          "value": "Vertebral artery"
+        },
+        {
+          "value": "Vertebral vessels"
+        }
+      ]
+    },
+    {
+      "value": "Pelvis",
+      "children": [
+        {
+          "value": "Anus"
+        },
+        {
+          "value": "Appendix"
+        },
+        {
+          "value": "Coccyx"
+        },
+        {
+          "value": "Colon"
+        },
+        {
+          "value": "Deep inferior epigastric artery"
+        },
+        {
+          "value": "Epididymis"
+        },
+        {
+          "value": "Fallopian tube"
+        },
+        {
+          "value": "Fallopian tubes"
+        },
+        {
+          "value": "Gastrointestinal tract"
+        },
+        {
+          "value": "Genitourinary tract"
+        },
+        {
+          "value": "Groin"
+        },
+        {
+          "value": "Iliac artery"
+        },
+        {
+          "value": "Iliac artery.internal"
+        },
+        {
+          "value": "Iliac graft"
+        },
+        {
+          "value": "Iliac vessels"
+        },
+        {
+          "value": "Internal pudendal artery"
+        },
+        {
+          "value": "Lumbosacral plexus"
+        },
+        {
+          "value": "Ovarian vessels"
+        },
+        {
+          "value": "Ovary"
+        },
+        {
+          "value": "Pelvic lymphatic vessels"
+        },
+        {
+          "value": "Pelvis arteries"
+        },
+        {
+          "value": "Pelvis bones"
+        },
+        {
+          "value": "Pelvis veins"
+        },
+        {
+          "value": "Pelvis vessels"
+        },
+        {
+          "value": "Penis"
+        },
+        {
+          "value": "Penis vessels"
+        },
+        {
+          "value": "Penis.soft tissue"
+        },
+        {
+          "value": "Perirectal region"
+        },
+        {
+          "value": "Placenta"
+        },
+        {
+          "value": "Prostate"
+        },
+        {
+          "value": "Pseudoaneurysm"
+        },
+        {
+          "value": "RO vessels"
+        },
+        {
+          "value": "Rectum"
+        },
+        {
+          "value": "Sacroiliac joint"
+        },
+        {
+          "value": "Sacrum"
+        },
+        {
+          "value": "Sacrum epidural space"
+        },
+        {
+          "value": "Scrotum"
+        },
+        {
+          "value": "Seminal vesicle"
+        },
+        {
+          "value": "Spine.lumbosacral junction"
+        },
+        {
+          "value": "Symphysis pubis"
+        },
+        {
+          "value": "Testicle"
+        },
+        {
+          "value": "Testicular vessels"
+        },
+        {
+          "value": "Tributaries"
+        },
+        {
+          "value": "Ureter"
+        },
+        {
+          "value": "Urethra"
+        },
+        {
+          "value": "Urinary bladder"
+        },
+        {
+          "value": "Urinary bladder arteries"
+        },
+        {
+          "value": "Uterine artery"
+        },
+        {
+          "value": "Uterus"
+        },
+        {
+          "value": "Vagina"
+        },
+        {
+          "value": "Vas deferens"
+        },
+        {
+          "value": "Vessels"
+        }
+      ]
+    },
+    {
+      "value": "Spine",
+      "children": []
+    },
+    {
+      "value": "Umbilical artery",
+      "children": []
+    },
+    {
+      "value": "Umbilical cord",
+      "children": []
+    },
+    {
+      "value": "Umbilical vessels",
+      "children": []
+    },
+    {
+      "value": "Upper extremity",
+      "children": [
+        {
+          "value": "Acromioclavicular joint"
+        },
+        {
+          "value": "Brachial artery"
+        },
+        {
+          "value": "Carpal tunnel"
+        },
+        {
+          "value": "Elbow"
+        },
+        {
+          "value": "Finger"
+        },
+        {
+          "value": "Finger.fifth"
+        },
+        {
+          "value": "Finger.fourth"
+        },
+        {
+          "value": "Finger.second"
+        },
+        {
+          "value": "Finger.third"
+        },
+        {
+          "value": "Forearm"
+        },
+        {
+          "value": "Forearm vessels"
+        },
+        {
+          "value": "Hand"
+        },
+        {
+          "value": "Hand vessels"
+        },
+        {
+          "value": "Humerus"
+        },
+        {
+          "value": "Humerus.bicipital groove"
+        },
+        {
+          "value": "Olecranon"
+        },
+        {
+          "value": "Radius"
+        },
+        {
+          "value": "Shoulder"
+        },
+        {
+          "value": "Shoulder vessels"
+        },
+        {
+          "value": "Soft tissue"
+        },
+        {
+          "value": "Thumb"
+        },
+        {
+          "value": "Trapezium"
+        },
+        {
+          "value": "Trapezoid"
+        },
+        {
+          "value": "Triquetrum"
+        },
+        {
+          "value": "Ulna"
+        },
+        {
+          "value": "Upper arm"
+        },
+        {
+          "value": "Upper extremity arteries"
+        },
+        {
+          "value": "Upper extremity artery"
+        },
+        {
+          "value": "Upper extremity joint"
+        },
+        {
+          "value": "Upper extremity vein"
+        },
+        {
+          "value": "Upper extremity veins"
+        },
+        {
+          "value": "Upper extremity vessel"
+        },
+        {
+          "value": "Upper extremity vessels"
+        },
+        {
+          "value": "Wrist"
+        },
+        {
+          "value": "Wrist vessels"
+        },
+        {
+          "value": "Wrist.hamate"
+        },
+        {
+          "value": "Wrist.pisiform"
+        },
+        {
+          "value": "Wrist.scaphoid"
+        }
+      ]
+    },
+    {
+      "value": "Whole Body",
+      "children": [
+        {
+          "value": "Bone"
+        },
+        {
+          "value": "Bone marrow"
+        },
+        {
+          "value": "Gastrointestinal tract"
+        },
+        {
+          "value": "Pulmonary system"
+        },
+        {
+          "value": "Skeletal system"
+        },
+        {
+          "value": "Skeletal system.axial"
+        },
+        {
+          "value": "Skeletal system.peripheral"
+        },
+        {
+          "value": "Skull base to mid-thigh"
+        },
+        {
+          "value": "Skull base to mid-thigh.bone"
+        },
+        {
+          "value": "Skull vertex to mid-thigh"
+        }
+      ]
+    },
+    {
+      "value": "Other",
+      "children": [
+        {
+          "value": "AV fistula"
+        },
+        {
+          "value": "AV shunt"
+        },
+        {
+          "value": "Artery"
+        },
+        {
+          "value": "Bone"
+        },
+        {
+          "value": "Bone marrow"
+        },
+        {
+          "value": "Bones"
+        },
+        {
+          "value": "Bones.long"
+        },
+        {
+          "value": "Catheter"
+        },
+        {
+          "value": "Epidural veins"
+        },
+        {
+          "value": "Extracranial vessels"
+        },
+        {
+          "value": "Fistula"
+        },
+        {
+          "value": "Intervertebral disc"
+        },
+        {
+          "value": "Intraosseous veins"
+        },
+        {
+          "value": "Joint"
+        },
+        {
+          "value": "Joint space"
+        },
+        {
+          "value": "Joint.intermediate"
+        },
+        {
+          "value": "Joint.major"
+        },
+        {
+          "value": "Joint.small"
+        },
+        {
+          "value": "Lymph node"
+        },
+        {
+          "value": "Lymphatic vessel"
+        },
+        {
+          "value": "Lymphatic vessels"
+        },
+        {
+          "value": "Muscle"
+        },
+        {
+          "value": "Nerve"
+        },
+        {
+          "value": "Nerve root"
+        },
+        {
+          "value": "Peripheral arteries"
+        },
+        {
+          "value": "Peripheral artery"
+        },
+        {
+          "value": "Peripheral nerve"
+        },
+        {
+          "value": "Peripheral veins"
+        },
+        {
+          "value": "Peripheral vessels"
+        },
+        {
+          "value": "Shunt"
+        },
+        {
+          "value": "Sinus tract"
+        },
+        {
+          "value": "Soft tissue"
+        },
+        {
+          "value": "Spinal artery"
+        },
+        {
+          "value": "Spinal cavity"
+        },
+        {
+          "value": "Spinal cord"
+        },
+        {
+          "value": "Spinal veins"
+        },
+        {
+          "value": "Spine"
+        },
+        {
+          "value": "Spine epidural space"
+        },
+        {
+          "value": "Spine facet joint"
+        },
+        {
+          "value": "Spine vertebra"
+        },
+        {
+          "value": "Spine vessel"
+        },
+        {
+          "value": "Spine vessels"
+        },
+        {
+          "value": "Stent"
+        },
+        {
+          "value": "Tendon"
+        },
+        {
+          "value": "Tendon or ligament"
+        },
+        {
+          "value": "Three vessels"
+        },
+        {
+          "value": "Tissue"
+        },
+        {
+          "value": "Tube"
+        },
+        {
+          "value": "Two vessels"
+        },
+        {
+          "value": "Vein"
+        },
+        {
+          "value": "Veins"
+        },
+        {
+          "value": "Vertebral vessels"
+        },
+        {
+          "value": "Vessel"
+        },
+        {
+          "value": "Vessels"
+        },
+        {
+          "value": "Visceral vessels"
+        }
+      ]
+    }
+  ]
+}

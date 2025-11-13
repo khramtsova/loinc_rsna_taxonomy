@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "value": "CT",
+      "children": [
+        {
+          "value": "Angio"
+        },
+        {
+          "value": "Cone beam"
+        },
+        {
+          "value": "Densitometry"
+        },
+        {
+          "value": "Perfusion"
+        },
+        {
+          "value": "Scanogram"
+        }
+      ]
+    },
+    {
+      "value": "DXA",
+      "children": []
+    },
+    {
+      "value": "MG",
+      "children": [
+        {
+          "value": "FFD"
+        },
+        {
+          "value": "Stereotactic"
+        },
+        {
+          "value": "tomosynthesis"
+        }
+      ]
+    },
+    {
+      "value": "MR",
+      "children": [
+        {
+          "value": "Angio"
+        },
+        {
+          "value": "Elastography"
+        },
+        {
+          "value": "Functional"
+        },
+        {
+          "value": "Perfusion"
+        },
+        {
+          "value": "Spectroscopy"
+        },
+        {
+          "value": "Tractography"
+        }
+      ]
+    },
+    {
+      "value": "NM",
+      "children": [
+        {
+          "value": "SPECT"
+        }
+      ]
+    },
+    {
+      "value": "NM.SPECT+CT",
+      "children": []
+    },
+    {
+      "value": "PT",
+      "children": [
+        {
+          "value": "Perfusion"
+        }
+      ]
+    },
+    {
+      "value": "PT+CT",
+      "children": []
+    },
+    {
+      "value": "RF",
+      "children": [
+        {
+          "value": "Angio"
+        },
+        {
+          "value": "Portable"
+        },
+        {
+          "value": "Video"
+        }
+      ]
+    },
+    {
+      "value": "US",
+      "children": [
+        {
+          "value": "A-scan"
+        },
+        {
+          "value": "Doppler"
+        },
+        {
+          "value": "Elastography"
+        }
+      ]
+    },
+    {
+      "value": "XR",
+      "children": [
+        {
+          "value": "Portable"
+        },
+        {
+          "value": "Slot radiography"
+        },
+        {
+          "value": "Tomography"
+        },
+        {
+          "value": "stereoscopic"
+        }
+      ]
+    },
+    {
+      "value": "Other Imaging",
+      "children": []
+    }
+  ]
+}

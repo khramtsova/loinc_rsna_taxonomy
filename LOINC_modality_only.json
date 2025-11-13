@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "value": "CT"
+    },
+    {
+      "value": "DXA"
+    },
+    {
+      "value": "MG"
+    },
+    {
+      "value": "MR"
+    },
+    {
+      "value": "NM"
+    },
+    {
+      "value": "NM.SPECT+CT"
+    },
+    {
+      "value": "PT"
+    },
+    {
+      "value": "PT+CT"
+    },
+    {
+      "value": "RF"
+    },
+    {
+      "value": "US"
+    },
+    {
+      "value": "XR"
+    },
+    {
+      "value": "Other Imaging"
+    }
+  ]
+}

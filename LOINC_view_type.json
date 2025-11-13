@@ -1,0 +1,391 @@
+{
+  "items": [
+    {
+      "value": "10 degree caudal angle"
+    },
+    {
+      "value": "10 degree cephalic angle"
+    },
+    {
+      "value": "20 degree cephalic angle"
+    },
+    {
+      "value": "30 degree caudal angle"
+    },
+    {
+      "value": "45 degree cephalic angle"
+    },
+    {
+      "value": "45 degree flexion"
+    },
+    {
+      "value": "90 degree abduction"
+    },
+    {
+      "value": "AP"
+    },
+    {
+      "value": "AP L-lateral-decubitus"
+    },
+    {
+      "value": "AP R-lateral-decubitus"
+    },
+    {
+      "value": "AP lateral-decubitus"
+    },
+    {
+      "value": "Abduction"
+    },
+    {
+      "value": "Air gap"
+    },
+    {
+      "value": "Arcelin"
+    },
+    {
+      "value": "Axial"
+    },
+    {
+      "value": "Babygram"
+    },
+    {
+      "value": "Ball Catcher"
+    },
+    {
+      "value": "Bernageau"
+    },
+    {
+      "value": "Bitewing"
+    },
+    {
+      "value": "Bora"
+    },
+    {
+      "value": "Brewerton"
+    },
+    {
+      "value": "Broden"
+    },
+    {
+      "value": "Caldwell"
+    },
+    {
+      "value": "Carpal tunnel"
+    },
+    {
+      "value": "Closed mouth"
+    },
+    {
+      "value": "Cone"
+    },
+    {
+      "value": "Danelius Miller"
+    },
+    {
+      "value": "Displacement"
+    },
+    {
+      "value": "Endorectal"
+    },
+    {
+      "value": "Endovaginal"
+    },
+    {
+      "value": "External oblique"
+    },
+    {
+      "value": "External rotation"
+    },
+    {
+      "value": "Ferguson"
+    },
+    {
+      "value": "Friedman"
+    },
+    {
+      "value": "Frontal"
+    },
+    {
+      "value": "Garth"
+    },
+    {
+      "value": "Grashey"
+    },
+    {
+      "value": "Grid"
+    },
+    {
+      "value": "Harris"
+    },
+    {
+      "value": "Holmblad"
+    },
+    {
+      "value": "Internal oblique"
+    },
+    {
+      "value": "Internal rotation"
+    },
+    {
+      "value": "Jones"
+    },
+    {
+      "value": "Judet"
+    },
+    {
+      "value": "L-anterior oblique"
+    },
+    {
+      "value": "L-lateral"
+    },
+    {
+      "value": "L-lateral-decubitus"
+    },
+    {
+      "value": "L-oblique"
+    },
+    {
+      "value": "L-posterior oblique"
+    },
+    {
+      "value": "Laurin"
+    },
+    {
+      "value": "Law"
+    },
+    {
+      "value": "MLO"
+    },
+    {
+      "value": "Magnification"
+    },
+    {
+      "value": "Max abduction"
+    },
+    {
+      "value": "Mayer"
+    },
+    {
+      "value": "Merchants"
+    },
+    {
+      "value": "Merchants 30 degrees"
+    },
+    {
+      "value": "Merchants 45 degrees"
+    },
+    {
+      "value": "Merchants 60 degrees"
+    },
+    {
+      "value": "Mortise"
+    },
+    {
+      "value": "Oblique crosstable"
+    },
+    {
+      "value": "Oblique prone"
+    },
+    {
+      "value": "Oblique upright"
+    },
+    {
+      "value": "Obliques"
+    },
+    {
+      "value": "Occlusal"
+    },
+    {
+      "value": "Open mouth"
+    },
+    {
+      "value": "PA"
+    },
+    {
+      "value": "PA 30 degree flexion"
+    },
+    {
+      "value": "PA prone"
+    },
+    {
+      "value": "PA upright"
+    },
+    {
+      "value": "Pronated oblique"
+    },
+    {
+      "value": "R-anterior oblique"
+    },
+    {
+      "value": "R-lateral"
+    },
+    {
+      "value": "R-lateral-decubitus"
+    },
+    {
+      "value": "R-oblique"
+    },
+    {
+      "value": "R-posterior oblique"
+    },
+    {
+      "value": "Radial deviation"
+    },
+    {
+      "value": "Reverse oblique"
+    },
+    {
+      "value": "Rolled"
+    },
+    {
+      "value": "Rosenberg"
+    },
+    {
+      "value": "Runoff"
+    },
+    {
+      "value": "Serendipity"
+    },
+    {
+      "value": "Ski jump"
+    },
+    {
+      "value": "Stenver"
+    },
+    {
+      "value": "Stryker Notch"
+    },
+    {
+      "value": "Submentovertex"
+    },
+    {
+      "value": "Sunrise"
+    },
+    {
+      "value": "Sunrise 20 degrees"
+    },
+    {
+      "value": "Sunrise 40 degrees"
+    },
+    {
+      "value": "Sunrise 60 degrees"
+    },
+    {
+      "value": "Towne"
+    },
+    {
+      "value": "Transabdominal"
+    },
+    {
+      "value": "Transcapular"
+    },
+    {
+      "value": "Transrectal"
+    },
+    {
+      "value": "Transvaginal"
+    },
+    {
+      "value": "Ulnar deviation"
+    },
+    {
+      "value": "Velpeau axillary"
+    },
+    {
+      "value": "View Canale"
+    },
+    {
+      "value": "Von Rosen"
+    },
+    {
+      "value": "Waters"
+    },
+    {
+      "value": "Waters upright"
+    },
+    {
+      "value": "West Point"
+    },
+    {
+      "value": "XCCL"
+    },
+    {
+      "value": "Y"
+    },
+    {
+      "value": "Zanca"
+    },
+    {
+      "value": "anterior"
+    },
+    {
+      "value": "apical lordotic"
+    },
+    {
+      "value": "axillary"
+    },
+    {
+      "value": "inlet"
+    },
+    {
+      "value": "lateral"
+    },
+    {
+      "value": "lateral crosstable"
+    },
+    {
+      "value": "lateral frog"
+    },
+    {
+      "value": "lateral spot"
+    },
+    {
+      "value": "lateral-decubitus"
+    },
+    {
+      "value": "oblique"
+    },
+    {
+      "value": "odontoid"
+    },
+    {
+      "value": "outlet"
+    },
+    {
+      "value": "panoramic"
+    },
+    {
+      "value": "radial head capitellar"
+    },
+    {
+      "value": "scaphoid"
+    },
+    {
+      "value": "spot"
+    },
+    {
+      "value": "supine"
+    },
+    {
+      "value": "swimmers"
+    },
+    {
+      "value": "tangential"
+    },
+    {
+      "value": "transthoracic"
+    },
+    {
+      "value": "true AP"
+    },
+    {
+      "value": "true lateral"
+    },
+    {
+      "value": "tunnel"
+    },
+    {
+      "value": "upright"
+    }
+  ]
+}
