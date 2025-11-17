@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "value": "Left"
+    },
+    {
+      "value": "Right"
+    },
+    {
+      "value": "Bilateral"
+    },
+    {
+      "value": "Unilateral"
+    }
+  ]
+}
