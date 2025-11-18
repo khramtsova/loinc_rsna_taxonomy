@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "value": "CT",
+      "children": [
+        {
+          "value": "Angio"
+        },
+        {
+          "value": "Cone beam"
+        },
+        {
+          "value": "Densitometry"
+        },
+        {
+          "value": "Perfusion"
+        },
+        {
+          "value": "Scanogram"
+        }
+      ]
+    },
+    {
+      "value": "DXA"
+    },
+    {
+      "value": "MG",
+      "children": [
+        {
+          "value": "FFD"
+        },
+        {
+          "value": "Stereotactic"
+        },
+        {
+          "value": "Tomosynthesis"
+        }
+      ]
+    },
+    {
+      "value": "MR",
+      "children": [
+        {
+          "value": "Angio"
+        },
+        {
+          "value": "Elastography"
+        },
+        {
+          "value": "Functional"
+        },
+        {
+          "value": "Perfusion"
+        },
+        {
+          "value": "Spectroscopy"
+        },
+        {
+          "value": "Tractography"
+        }
+      ]
+    },
+    {
+      "value": "NM",
+      "children": [
+        {
+          "value": "SPECT"
+        }
+      ]
+    },
+    {
+      "value": "PT",
+      "children": [
+        {
+          "value": "Perfusion"
+        }
+      ]
+    },
+    {
+      "value": "RF",
+      "children": [
+        {
+          "value": "Angio"
+        },
+        {
+          "value": "Portable"
+        },
+        {
+          "value": "Video"
+        }
+      ]
+    },
+    {
+      "value": "US",
+      "children": [
+        {
+          "value": "A-scan"
+        },
+        {
+          "value": "Doppler"
+        },
+        {
+          "value": "Elastography"
+        }
+      ]
+    },
+    {
+      "value": "XR",
+      "children": [
+        {
+          "value": "Portable"
+        },
+        {
+          "value": "Slot radiography"
+        },
+        {
+          "value": "Tomography"
+        },
+        {
+          "value": "Stereoscopic"
+        }
+      ]
+    },
+    {
+      "value": "Other Imaging"
+    }
+  ]
+}
