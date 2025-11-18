@@ -34,7 +34,7 @@
           "value": "Stereotactic"
         },
         {
-          "value": "tomosynthesis"
+          "value": "Tomosynthesis"
         }
       ]
     },
@@ -70,20 +70,12 @@
       ]
     },
     {
-      "value": "NM.SPECT+CT",
-      "children": []
-    },
-    {
       "value": "PT",
       "children": [
         {
           "value": "Perfusion"
         }
       ]
-    },
-    {
-      "value": "PT+CT",
-      "children": []
     },
     {
       "value": "RF",
@@ -126,7 +118,7 @@
           "value": "Tomography"
         },
         {
-          "value": "stereoscopic"
+          "value": "Stereoscopic"
         }
       ]
     },
