@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "value": "Additional puncture"
+    },
+    {
+      "value": "Antegrade"
+    },
+    {
+      "value": "EP"
+    },
+    {
+      "value": "Existing catheter"
+    },
+    {
+      "value": "IA"
+    },
+    {
+      "value": "IH"
+    },
+    {
+      "value": "IS"
+    },
+    {
+      "value": "IT"
+    },
+    {
+      "value": "IU"
+    },
+    {
+      "value": "IV"
+    },
+    {
+      "value": "Intra bladder"
+    },
+    {
+      "value": "Intra corpus cavernosum"
+    },
+    {
+      "value": "Intra duct"
+    },
+    {
+      "value": "Intra lacrimal duct"
+    },
+    {
+      "value": "Intra larynx"
+    },
+    {
+      "value": "Intra lymphatic"
+    },
+    {
+      "value": "Intra multiple ducts"
+    },
+    {
+      "value": "Intra pleural space"
+    },
+    {
+      "value": "Intra salivary duct"
+    },
+    {
+      "value": "Intra sinus tract"
+    },
+    {
+      "value": "Intra stent"
+    },
+    {
+      "value": "Intra vas deferens"
+    },
+    {
+      "value": "Intradisc"
+    },
+    {
+      "value": "PO"
+    },
+    {
+      "value": "PR"
+    },
+    {
+      "value": "Percutaneous intraperitoneal"
+    },
+    {
+      "value": "Percutaneous transhepatic"
+    },
+    {
+      "value": "Retrograde"
+    },
+    {
+      "value": "Retrograde intrabiliary"
+    },
+    {
+      "value": "Seminal vesicle"
+    },
+    {
+      "value": "Ureter"
+    },
+    {
+      "value": "VG"
+    },
+    {
+      "value": "Via enteroclysis tube"
+    },
+    {
+      "value": "Via fistula"
+    }
+  ]
+}
